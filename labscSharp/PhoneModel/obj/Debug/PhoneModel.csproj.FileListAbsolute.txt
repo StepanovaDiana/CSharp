@@ -1,0 +1,5 @@
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\PhoneModel\obj\Debug\PhoneModel.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\PhoneModel\bin\Debug\PhoneModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\PhoneModel\bin\Debug\PhoneModel.pdb
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\PhoneModel\obj\Debug\PhoneModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\PhoneModel\obj\Debug\PhoneModel.pdb
