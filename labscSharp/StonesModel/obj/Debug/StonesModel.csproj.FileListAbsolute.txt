@@ -1,0 +1,5 @@
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\StonesModel\bin\Debug\StonesModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\StonesModel\bin\Debug\StonesModel.pdb
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\StonesModel\obj\Debug\StonesModel.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\StonesModel\obj\Debug\StonesModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\StonesModel\obj\Debug\StonesModel.pdb

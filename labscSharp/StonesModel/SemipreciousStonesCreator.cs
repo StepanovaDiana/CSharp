@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _1_лаба
 {
-    class SemipreciousStonesCreator: Creator
+   public class SemipreciousStonesCreator: Creator
     {
         public override Stones FactoryMethod(string stonesName, double stonesWeight, double stonesPrice, double stonesTransparencyParameter)
         {
