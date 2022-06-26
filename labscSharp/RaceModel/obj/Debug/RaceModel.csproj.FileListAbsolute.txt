@@ -1,0 +1,7 @@
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\bin\Debug\RaceModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\bin\Debug\RaceModel.pdb
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\obj\Debug\RaceModel.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\obj\Debug\RaceModel.dll
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\obj\Debug\RaceModel.pdb
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\obj\Debug\RaceModel.Properties.Resources.resources
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\RaceModel\obj\Debug\RaceModel.csproj.GenerateResource.cache

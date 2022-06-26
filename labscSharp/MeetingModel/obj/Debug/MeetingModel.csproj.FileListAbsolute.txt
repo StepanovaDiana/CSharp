@@ -3,3 +3,4 @@ C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\MeetingMode
 C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\MeetingModel\obj\Debug\MeetingModel.csproj.CoreCompileInputs.cache
 C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\MeetingModel\obj\Debug\MeetingModel.dll
 C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\MeetingModel\obj\Debug\MeetingModel.pdb
+C:\Users\Диана\Desktop\лабы с# 4 семестр\labscSharp\MeetingModel\obj\Debug\MeetingModel.csprojAssemblyReference.cache
